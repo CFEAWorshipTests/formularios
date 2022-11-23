@@ -1,0 +1,2 @@
+- name: Start MySQL
+  uses: samin/mysql-action@v1.3
